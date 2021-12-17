@@ -1,0 +1,29 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+  margin-top: 100px;
+  
+}
+
+body
+{
+background-image: linear-gradient(to right top, #34ebcd, #25d9ca, #18c1b9, #168686, #006494);
+}
+img
+{
+   width: 80px;
+   height: 80px;
+}
+#user_name
+{
+margin-left: 350px;
+}
+
+
+
+
+
+
+
+
